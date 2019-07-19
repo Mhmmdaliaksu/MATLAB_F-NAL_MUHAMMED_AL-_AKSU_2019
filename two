@@ -1,0 +1,1242 @@
+Final_2_Soru
+{Undefined function or variable 'M1'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Final_2_Soru', 'C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m', 4)" style="font-weight:bold">Final_2_Soru</a> (<a href="matlab: opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',4,0)">line 4</a>)
+A=[M1,1,0;M2,-1,1;M3,0,-1]
+} 
+clc
+clear all
+M1=70
+
+M1 =
+
+    70
+
+M2=60
+
+M2 =
+
+    60
+
+M3=40
+
+M3 =
+
+    40
+
+A=[M1,1,0;M2,-1,1;M3,0,-1]
+
+A =
+
+    70     1     0
+    60    -1     1
+    40     0    -1
+
+Final_2_Soru
+
+M1 =
+
+    70
+
+
+M2 =
+
+    60
+
+
+M3 =
+
+    40
+
+{Undefined function or variable 'h'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Final_2_Soru', 'C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m', 6)" style="font-weight:bold">Final_2_Soru</a> (<a href="matlab: opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',6,0)">line 6</a>)
+X1=h
+} 
+Final_2_Soru
+
+M1 =
+
+    70
+
+
+M2 =
+
+    60
+
+
+M3 =
+
+    40
+
+{Undefined function or variable 'h'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Final_2_Soru', 'C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m', 6)" style="font-weight:bold">Final_2_Soru</a> (<a href="matlab: opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',6,0)">line 6</a>)
+X1=h
+} 
+clc
+clear all
+M1=70
+
+M1 =
+
+    70
+
+M2=60
+
+M2 =
+
+    60
+
+M3=40
+
+M3 =
+
+    40
+
+
+
+A=[M1,1,0;M2,-1,1;M3,0,-1]
+
+A =
+
+    70     1     0
+    60    -1     1
+    40     0    -1
+
+X=[X1,X2,X3]
+{Undefined function or variable 'X1'.
+} 
+Final_2_Soru
+
+M1 =
+
+    70
+
+
+M2 =
+
+    60
+
+
+M3 =
+
+    40
+
+
+D1 =
+
+    10
+
+
+D2 =
+
+    14
+
+
+D3 =
+
+    17
+
+
+V =
+
+     5
+
+
+g =
+
+     9
+
+
+ans =
+
+     8
+
+{Undefined function or variable 'h'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Final_2_Soru', 'C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m', 14)" style="font-weight:bold">Final_2_Soru</a> (<a href="matlab: opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',14,0)">line 14</a>)
+X1=h
+} 
+Final_2_Soru
+{Error: <a href="matlab: opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',22,4)">File: Final_2_Soru.m Line: 22 Column: 4
+</a>The expression to the left of the equals sign is not a valid target for an assignment.
+} 
+opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',22,4)
+opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',22,4)
+opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',22,4)
+Final_2_Soru
+
+M1 =
+
+    70
+
+
+M2 =
+
+    60
+
+
+M3 =
+
+    40
+
+
+D1 =
+
+    10
+
+
+D2 =
+
+    14
+
+
+D3 =
+
+    17
+
+
+V =
+
+     5
+
+
+g =
+
+     9
+
+
+ans =
+
+     8
+
+{Undefined function or variable 'h'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Final_2_Soru', 'C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m', 14)" style="font-weight:bold">Final_2_Soru</a> (<a href="matlab: opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',14,0)">line 14</a>)
+X1=h
+} 
+Final_2_Soru
+
+M1 =
+
+    70
+
+
+M2 =
+
+    60
+
+
+M3 =
+
+    40
+
+
+D1 =
+
+    10
+
+
+D2 =
+
+    14
+
+
+D3 =
+
+    17
+
+
+V =
+
+     5
+
+
+g =
+
+     9
+
+
+ans =
+
+     8
+
+
+A =
+
+    70     1     0
+    60    -1     1
+    40     0    -1
+
+{Undefined function or variable 'X1'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Final_2_Soru', 'C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m', 19)" style="font-weight:bold">Final_2_Soru</a> (<a href="matlab: opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',19,0)">line 19</a>)
+X=[X1,X2,X3]
+} 
+Final_2_Soru
+{Error: <a href="matlab: opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',22,4)">File: Final_2_Soru.m Line: 22 Column: 4
+</a>The expression to the left of the equals sign is not a valid target for an assignment.
+} 
+opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',22,4)
+opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',22,4)
+Final_2_Soru
+
+M1 =
+
+    70
+
+
+M2 =
+
+    60
+
+
+M3 =
+
+    40
+
+
+D1 =
+
+    10
+
+
+D2 =
+
+    14
+
+
+D3 =
+
+    17
+
+
+V =
+
+     5
+
+
+g =
+
+     9
+
+
+ans =
+
+     8
+
+
+A =
+
+    70     1     0
+    60    -1     1
+    40     0    -1
+
+{Undefined function or variable 'B'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Final_2_Soru', 'C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m', 19)" style="font-weight:bold">Final_2_Soru</a> (<a href="matlab: opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',19,0)">line 19</a>)
+X=A\B
+} 
+Final_2_Soru
+
+M1 =
+
+    70
+
+
+M2 =
+
+    60
+
+
+M3 =
+
+    40
+
+
+D1 =
+
+    10
+
+
+D2 =
+
+    14
+
+
+D3 =
+
+    17
+
+
+V =
+
+     5
+
+
+g =
+
+     9
+
+
+ans =
+
+     8
+
+
+A =
+
+    70     1     0
+    60    -1     1
+    40     0    -1
+
+
+B =
+
+   580
+   470
+   275
+
+Final_2_Soru
+
+M1 =
+
+    70
+
+
+M2 =
+
+    60
+
+
+M3 =
+
+    40
+
+
+D1 =
+
+    10
+
+
+D2 =
+
+    14
+
+
+D3 =
+
+    17
+
+
+V =
+
+     5
+
+
+g =
+
+     9
+
+
+ans =
+
+     8
+
+
+A =
+
+    70     1     0
+    60    -1     1
+    40     0    -1
+
+{Undefined function or variable 'X1'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Final_2_Soru', 'C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m', 19)" style="font-weight:bold">Final_2_Soru</a> (<a href="matlab: opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',19,0)">line 19</a>)
+X=[X1;X2;X3]
+} 
+Final_2_Soru
+
+M1 =
+
+    70
+
+
+M2 =
+
+    60
+
+
+M3 =
+
+    40
+
+
+D1 =
+
+    10
+
+
+D2 =
+
+    14
+
+
+D3 =
+
+    17
+
+
+V =
+
+     5
+
+
+g =
+
+     9
+
+
+ans =
+
+     8
+
+{Undefined function or variable 'h'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Final_2_Soru', 'C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m', 14)" style="font-weight:bold">Final_2_Soru</a> (<a href="matlab: opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',14,0)">line 14</a>)
+X1=h
+} 
+Final_2_Soru
+{Error: <a href="matlab: opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',22,4)">File: Final_2_Soru.m Line: 22 Column: 4
+</a>The expression to the left of the equals sign is not a valid target for an assignment.
+} 
+opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',22,4)
+opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',22,4)
+opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',22,4)
+opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',22,4)
+opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',22,4)
+Final_2_Soru
+
+M1 =
+
+    70
+
+
+M2 =
+
+    60
+
+
+M3 =
+
+    40
+
+
+D1 =
+
+    10
+
+
+D2 =
+
+    14
+
+
+D3 =
+
+    17
+
+
+V =
+
+     5
+
+
+g =
+
+     9
+
+
+ans =
+
+     8
+
+{Undefined function or variable 'h'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Final_2_Soru', 'C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m', 14)" style="font-weight:bold">Final_2_Soru</a> (<a href="matlab: opentoline('C:\Users\muham\OneDrive\Masaüstü\MATLAB FÝNAL\Final_2_Soru.m',14,0)">line 14</a>)
+X1=h
+} 
+Final_2_Soru
+
+M1 =
+
+    70
+
+
+M2 =
+
+    60
+
+
+M3 =
+
+    40
+
+
+D1 =
+
+    10
+
+
+D2 =
+
+    14
+
+
+D3 =
+
+    17
+
+
+V =
+
+     5
+
+
+g =
+
+     9
+
+
+ans =
+
+     8
+
+
+A =
+
+    70     1     0
+    60    -1     1
+    40     0    -1
+
+
+B =
+
+   580
+   470
+   275
+
+
+X =
+
+    7.7941
+   34.4118
+   36.7647
+
+Final_2_Soru
+
+M1 =
+
+    70
+
+
+M2 =
+
+    60
+
+
+M3 =
+
+    40
+
+
+D1 =
+
+    10
+
+
+D2 =
+
+    14
+
+
+D3 =
+
+    17
+
+
+V =
+
+     5
+
+
+g =
+
+     9
+
+
+ans =
+
+     8
+
+
+A =
+
+    70     1     0
+    60    -1     1
+    40     0    -1
+
+
+B =
+
+   580
+   470
+   275
+
+
+X =
+
+     265/34    
+     585/17    
+     625/17    
+
+diary off
+clc
+Final_2_Soru
+
+M1 =
+
+      70       
+
+
+M2 =
+
+      60       
+
+
+M3 =
+
+      40       
+
+
+D1 =
+
+      10       
+
+
+D2 =
+
+      14       
+
+
+D3 =
+
+      17       
+
+
+V =
+
+       5       
+
+
+g =
+
+       9       
+
+
+ans =
+
+       8       
+
+
+A =
+
+      70              1              0       
+      60             -1              1       
+      40              0             -1       
+
+
+B =
+
+     580       
+     470       
+     275       
+
+
+X =
+
+     265/34    
+     585/17    
+     625/17    
+
+Final_2_Soru
+
+M1 =
+
+      70       
+
+
+M2 =
+
+      60       
+
+
+M3 =
+
+      40       
+
+
+D1 =
+
+      10       
+
+
+D2 =
+
+      14       
+
+
+D3 =
+
+      17       
+
+
+V =
+
+       5       
+
+
+g =
+
+       9       
+
+
+ans =
+
+       8       
+
+
+A =
+
+      70              1              0       
+      60             -1              1       
+      40              0             -1       
+
+
+B =
+
+     580       
+     470       
+     275       
+
+
+X =
+
+     265/34    
+     585/17    
+     625/17    
+
+Final_2_Soru
+
+M1 =
+
+      70       
+
+
+M2 =
+
+      60       
+
+
+M3 =
+
+      40       
+
+
+D1 =
+
+      10       
+
+
+D2 =
+
+      14       
+
+
+D3 =
+
+      17       
+
+
+V =
+
+       5       
+
+
+g =
+
+       9       
+
+
+ans =
+
+       8       
+
+
+A =
+
+      70              1              0       
+      60             -1              1       
+      40              0             -1       
+
+
+B =
+
+     580       
+     470       
+     275       
+
+
+X =
+
+     265/34    
+     585/17    
+     625/17    
+
+Final_2_Soru
+
+M1 =
+
+      70       
+
+
+M2 =
+
+      60       
+
+
+M3 =
+
+      40       
+
+
+D1 =
+
+      10       
+
+
+D2 =
+
+      14       
+
+
+D3 =
+
+      17       
+
+
+V =
+
+       5       
+
+
+g =
+
+       9       
+
+
+ans =
+
+       8       
+
+
+A =
+
+      70              1              0       
+      60             -1              1       
+      40              0             -1       
+
+
+B =
+
+     580       
+     470       
+     275       
+
+
+X =
+
+     265/34    
+     585/17    
+     625/17    
+
+Final_2_Soru
+
+M1 =
+
+      70       
+
+
+M2 =
+
+      60       
+
+
+M3 =
+
+      40       
+
+
+D1 =
+
+      10       
+
+
+D2 =
+
+      14       
+
+
+D3 =
+
+      17       
+
+
+V =
+
+       5       
+
+
+g =
+
+       9       
+
+
+ans =
+
+       8       
+
+
+A =
+
+      70              1              0       
+      60             -1              1       
+      40              0             -1       
+
+
+B =
+
+     580       
+     470       
+     275       
+
+
+X =
+
+     265/34    
+     585/17    
+     625/17    
+
+Final_2_Soru
+
+M1 =
+
+      70       
+
+
+M2 =
+
+      60       
+
+
+M3 =
+
+      40       
+
+
+D1 =
+
+      10       
+
+
+D2 =
+
+      14       
+
+
+D3 =
+
+      17       
+
+
+V =
+
+       5       
+
+
+g =
+
+       9       
+
+
+ans =
+
+       8       
+
+
+A =
+
+      70              1              0       
+      60             -1              1       
+      40              0             -1       
+
+
+B =
+
+     580       
+     470       
+     275       
+
+
+X =
+
+     265/34    
+     585/17    
+     625/17    
+
+Final_2_Soru
+
+M1 =
+
+      70       
+
+
+M2 =
+
+      60       
+
+
+M3 =
+
+      40       
+
+
+D1 =
+
+      10       
+
+
+D2 =
+
+      14       
+
+
+D3 =
+
+      17       
+
+
+V =
+
+       5       
+
+
+g =
+
+       9       
+
+
+ans =
+
+       8       
+
+
+A =
+
+      70              1              0       
+      60             -1              1       
+      40              0             -1       
+
+
+B =
+
+     580       
+     470       
+     275       
+
+
+X =
+
+     265/34    
+     585/17    
+     625/17    
+
+Final_2_Soru
+
+M1 =
+
+      70       
+
+
+M2 =
+
+      60       
+
+
+M3 =
+
+      40       
+
+
+D1 =
+
+      10       
+
+
+D2 =
+
+      14       
+
+
+D3 =
+
+      17       
+
+
+V =
+
+       5       
+
+
+g =
+
+       9       
+
+
+ans =
+
+       8       
+
+
+A =
+
+      70              1              0       
+      60             -1              1       
+      40              0             -1       
+
+
+B =
+
+     580       
+     470       
+     275       
+
+
+X =
+
+     265/34    
+     585/17    
+     625/17    
+
+diary off
